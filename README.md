@@ -1,6 +1,7 @@
 <div align="center">
   <img  src="https://i.ibb.co/F7FYpCK/Screenshot-2024-07-28-204839.png">
 </div>
+
 # V1per-Bot-Raid-Premium
 Réplica de la tool "V1per Bot Raid", versión premium, de la "Comunidad defensora de gente LGBT" (Antiplague/4p) hecho en Javascript.
 - Requerimientos:
