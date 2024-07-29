@@ -1,1 +1,1 @@
-start cmd /k node index.js
+start cmd /k node --no-deprecation index.js
