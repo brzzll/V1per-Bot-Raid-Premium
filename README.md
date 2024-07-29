@@ -13,4 +13,4 @@ Réplica de la tool "V1per Bot Raid", versión premium, de la "Comunidad defenso
   - Una vez instalado los módulos necesarios, ejecuta "start.bat" para encender el bot.
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
-- Video de presentación: https://www.youtube.com/watch?v=8LFBxWxbHu0
+- Video de presentación: 
